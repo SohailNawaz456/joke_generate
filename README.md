@@ -17,7 +17,7 @@ pip install requests
 ## Usage
 Run the script using:
 ```sh
-python joke_generator.py
+python main.py
 ```
 Each time you run the script, it will print a random joke.
 
